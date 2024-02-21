@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mailru-im-bot_dorokhin"
-version = "0.0.22"
+version = "0.0.23"
 dependencies = [
   "cached-property==1.5.2",
   "certifi==2023.11.17",
